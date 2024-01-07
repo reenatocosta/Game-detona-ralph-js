@@ -10,7 +10,7 @@ O objetivo desse projeto é criar um jogo do Detona Ralph com HTML, CSS e JavaSc
 </div>
 
 ## 🖥 Preview do Jogo:
-![Imagem do Jogo](SRC/images/gameInterface.png)
+![Imagem do Jogo](src/images/gameInterface.png)
 
 ## ⚙ Execução do Jogo:
 1. **Clonar Repósitório:** basta utilizar o comando `git clone` para clonar esse projeto e salvar na máquina e depois executar o arquivo `index.html`.
