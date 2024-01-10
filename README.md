@@ -18,5 +18,5 @@ O objetivo desse projeto é criar um jogo do Detona Ralph com HTML, CSS e JavaSc
 
 ## 🕹 Como jogar:
 - O objetivo do jogo é clicar, usando o mouse, no personagem Ralph toda vez que ele aparecer. Cada click certo conta um ponto;
-- O jogo tem duração de 20 segundos;
+- O jogo tem duração de 60 segundos;
 - O jogador tem 3 vidas, cada erro diminui uma vida. Caso o jogador tenha zerado todas as suas vidas, o jogo é encerrado e é iniciado
